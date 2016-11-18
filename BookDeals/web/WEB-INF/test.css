@@ -1,3 +1,8 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 body {
   background-color: #F9F9F9;
 }
@@ -17,13 +22,13 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #222D4C;
+  background: linear-gradient(#37497b, #222D4C);
 }
 
 ul li {
   vertical-align: middle;
   display: inline-block;
-  font-family: "Comic Neue Angular";
+  font-family: 'Raleway', sans-serif;
   float: left;
 }
 
