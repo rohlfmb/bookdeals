@@ -1,0 +1,43 @@
+body {
+  background-color: #F9F9F9;
+}
+
+p {
+  font-family: "Comic Neue";
+}
+
+a, a:visited {
+  color: #F9F9F9;
+  text-decoration: none;
+}
+
+ul {
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222D4C;
+}
+
+ul li {
+  vertical-align: middle;
+  display: inline-block;
+  font-family: "Comic Neue Angular";
+  float: left;
+}
+
+ul li img {
+  vertical-align: middle;
+  padding-left: 10px;
+}
+
+ul li a {
+  line-height: 50px;
+  display: inline-block;
+  color: #F9F9F9;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+}
