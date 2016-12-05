@@ -79,3 +79,8 @@ input[type=button]:hover  {
     border:2px solid #101523;
     color:#F9F9F9;
 }
+
+footer {
+    font-family: "Raleway";
+    text-align: center;
+}
